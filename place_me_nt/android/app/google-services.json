@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "922622937524",
+    "project_id": "place-me-nt",
+    "storage_bucket": "place-me-nt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922622937524:android:f1a635efccb19a4ef10ae1",
+        "android_client_info": {
+          "package_name": "com.example.place_me_nt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922622937524-7mu0b8l763fk3ivp84hovhrh2549pmt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdf61zpq-5Gw-Az7sYNz0NMiKrWVuvI7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922622937524-7mu0b8l763fk3ivp84hovhrh2549pmt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922622937524-ejb1i1l1mg2n588g0jg520uu7cv6durl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.placeMeNt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922622937524:android:9adc7d04589bfa40f10ae1",
+        "android_client_info": {
+          "package_name": "com.example.the_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922622937524-7mu0b8l763fk3ivp84hovhrh2549pmt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdf61zpq-5Gw-Az7sYNz0NMiKrWVuvI7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922622937524-7mu0b8l763fk3ivp84hovhrh2549pmt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922622937524-ejb1i1l1mg2n588g0jg520uu7cv6durl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.placeMeNt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922622937524:android:598a629df4d00fc7f10ae1",
+        "android_client_info": {
+          "package_name": "com.place_me_nt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922622937524-7mu0b8l763fk3ivp84hovhrh2549pmt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdf61zpq-5Gw-Az7sYNz0NMiKrWVuvI7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922622937524-7mu0b8l763fk3ivp84hovhrh2549pmt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922622937524-ejb1i1l1mg2n588g0jg520uu7cv6durl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.placeMeNt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

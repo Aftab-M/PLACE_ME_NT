@@ -11,17 +11,9 @@ TextEditingController _desc = TextEditingController();
 
 List _posts = [
   {
-    'title': 'MASS RECRUITMENT',
-    'desc': "Notice about the mass recruiter that's gonna come this year"
+    'title': 'Sample Notice 1',
+    'desc': "Description about the sample notice."
   },
-  {
-    'title': 'MASS RECRUITMENT',
-    'desc': "Notice about the mass recruiter that's gonna come this year"
-  },
-  {
-    'title': 'MASS RECRUITMENT',
-    'desc': "Notice about the mass recruiter that's gonna come this year"
-  }
 ];
 
 

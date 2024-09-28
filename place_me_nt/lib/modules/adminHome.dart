@@ -24,7 +24,7 @@ List _posts = [
   }
 ];
 
-// REMOVE THE BACK BUTTON FROM THE APPBAR, JUST UN-COMMENT THE 'leading' PROPERTY
+
 class AHState extends State<AdminHome> {
   @override
   bool _loggedIn = false;
